@@ -8,7 +8,7 @@ of Kentaro Noma and Yishi Jin from San Diego University
 Thanks to these authors for their very interesting data!!
 
 This tree (files and folders organisation) allows to work comfortably with this pipeline:
-
+```
 WorkingDirectory ( name it "WGS" or "wholeGenSeq", always coherent with the technical context ) 
 ├── genomesref
 │   ├── species.project.release.annotations.gff3.gz
@@ -27,7 +27,7 @@ WorkingDirectory ( name it "WGS" or "wholeGenSeq", always coherent with the tech
 ├── ReadMe_personalProject
 ├── wholeGenworkflow.sh
 └── other scripts(.sh,.py,.r,etc) if neccessary
-
+```
 I strongly recommend to fit to this same tree structure in your computer.
 
 Johanna GALVIS - 2018
