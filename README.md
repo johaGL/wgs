@@ -65,7 +65,7 @@ If working with other diploid species, be aware that VCF generator provided here
 ## A) Preparing fastq files
 
 + If you have your own fastq files:
-   + put them in 'WGS/OPTOCelegans/fastq'
+   +  put them in 'WGS/OPTOCelegans/fastq'
 
 + If you dont have them: 
    1. download Sra-ToolKit from NCBI, unzip.
