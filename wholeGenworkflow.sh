@@ -29,7 +29,6 @@ picard_exe="/home/johanna/Programs_bioinfo/picard.jar"
 gatk_exe="/home/johanna/Programs_bioinfo/gatk-4.1.3.0/gatk"
 # trimmomatic folder (contains adapters files and executable):
 trimmodir="/home/johanna/Programs_bioinfo/Trimmomatic-0.39/Trimmomatic-0.39"
-# GenomeAnalysisToolKit folder:
 
 # Results : I automatically generate folders : QC, TRIMMED, ALIGNED
 # and additional results for reference data go to: $ref.
