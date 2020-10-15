@@ -87,7 +87,7 @@ If working with other diploid species, be aware that VCF generator provided here
    + trimmomatic
    + picard
    + GATK4 (v 4.1.3.0) ==> I tested only with this version !
-   + (eventually bcftools if VCF is created on the fly)
+   + (eventually bcftools if reference VCF is created on the fly)
 
 ### References
 1. Noma K, Jin Y. Optogenetic mutagenesis in Caenorhabditis elegans. Nat Commun. 2015 Dec 3;6:8868. doi: 10.1038/ncomms9868. PMID: 26632265; PMCID: PMC4686824.
